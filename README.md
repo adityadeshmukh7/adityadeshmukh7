@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adityadeshmukh7
 - 🌱 I’m currently learnings MySQL
-- 📫 How to reach me ...
+- 📫 How to reach me ...https://www.linkedin.com/in/aditya-deshmukh-9418a9269/
 
 
 <!---
